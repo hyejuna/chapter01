@@ -13,7 +13,7 @@ public class Ex03 {
 		String name = sc.nextLine();
 		System.out.println("당신의 이름은 " +name+ " 입니다.");
 		
-		
+		System.out.println("test");
 		sc.close();
 				
 				
